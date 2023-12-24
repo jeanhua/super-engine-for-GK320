@@ -1,4 +1,4 @@
-# super-engine-for-GK320
+# [Super Engine for GK320](https://github.com/jeanhua/super-engine-for-GK320/releases/tag/1.0 "Super Engine for GK320")  
 # ✅提供GK320/GK310智能电子学生证的破解服务  
 ![image](./1.png)  
 ## 这本来是我高一(2020)用易语言写的，到高二基本完成所有工作，旨在破解这个学生证，给无聊的高中生活加点乐趣，现在毕业了分享给大家，其中离不开我同学的帮助，在这里一并感谢他们
